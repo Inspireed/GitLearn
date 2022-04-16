@@ -35,7 +35,7 @@ int main()
 	Msg FromArab("Salam Aleikum");
 	Printer p;
 	p.Print(&FromArab);
-
+	cout << "Hello";
 
 
 }
